@@ -12,5 +12,6 @@ public class Main
     	  int b = in.nextInt();
     	  if ( a <= 100 && a > 0 && b > 0 && b <= 100) System.out.println(a + b);
       }
+      in.close();
    }
 }

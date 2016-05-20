@@ -19,5 +19,6 @@ public class Main
     	  if (n == 0) System.out.println("Yes");
     	  else System.out.println("No");
       }
+      in.close();
    }
 }
